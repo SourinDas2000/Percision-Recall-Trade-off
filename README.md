@@ -8,4 +8,4 @@ and creates a Logistic Regression model with it. The model will help to predict 
 survive or not by analyzing other dependent variables from the CSV file. The end goal however is
 to increase the precision of the model as much as possible, thus that all the positive predictions
 the model makes are correct (increased precision), even if it isn’t able to catch all the positive
-predictions (lower recall)
+predictions (lower recall).
