@@ -1,4 +1,4 @@
-# Percision-Recall Trade-off
+# About The Notebook
 Two commonly used metrics for classification are precision and recall. Conceptually, precision
 refers to the percentage of positive results which are relevant, while recall refers to the percentage
 of positive cases correctly classified. Often we face a situation where choosing between increasing
